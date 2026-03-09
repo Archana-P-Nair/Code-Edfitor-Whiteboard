@@ -72,7 +72,7 @@ Follow these steps to run the project locally on your machine: 🖥️
 
 ## 🌐 Live Demo
 
-Check out the live application here: ➡️ https://collab-glow2-yliy.vercel.app/
+Check out the live application here: ➡️ https://code-edfitor-whiteboard-3c5a-or2g8vmia.vercel.app/
 
 ## 👩‍💻 Author
 
